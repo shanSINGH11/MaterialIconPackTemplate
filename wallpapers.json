@@ -1,28 +1,95 @@
 {
   "walls": [
-    {
-      "author": "Someone Designer",
-      "url": "https://s-media-cache-ak0.pinimg.com/736x/25/99/06/259906d517d6440a60d0e426ced864f2.jpg",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image491321.jpg",
-      "name": "Wallpaper 1"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image491322.jpg",
-      "name": "Wallpaper 2"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://i.imgur.com/aZlqiAT.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image491323.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image491324.png",
-      "name": "Wallpaper 4"
-    }
-  ]
+      {
+				"author": "Ashish",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5TkZ0amk4TGZWYkU",
+				"name": "AS Wallpaper 1"
+
+			},
+			{
+				"author": "Ashish",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WTh5X054ZHJocmM",
+				"name": "AS Wallpaper 2"
+			},
+			{
+				"author": "Ashish",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-3.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5d0xqb3ktUzRQZDg",
+				"name": "AS Wallpaper 3"
+			},
+			{
+				"author": "Ashish",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-4.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5cGd5cElXQjA4Sk0",
+				"name": "AS Wallpaper 4"
+			},
+			{
+				"author": "Ashish",
+				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5SWFHM3A5RE1DMms",
+				"name": "AS Wallpaper 5"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_01.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5NzgxMGI4RWV2MkU",
+				"name": "AS Wallpaper 1"
+			},
+			{
+				"author": "Ashishr",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_02.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5LXpWOTVJU3A2Rm8",
+				"name": "AS Wallpaper 2"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_03.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WDNHR3ZndEs3cnM",
+				"name": "AS Wallpaper 3"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_04.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WHVlbjA2UEZDUlk",
+				"name": "AS Wallpaper 4"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_05.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bU84NlNRTzNfMms",
+				"name": "AS Wallpaper 5"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_06.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5VlVtcURlOEprY0E",
+				"name": "AS Wallpaper 6"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_07.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mi1FRUMydnpKTUk",
+				"name": "AS Wallpaper 7"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_08.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Z01ERWZuZVJ1bjQ",
+				"name": "AS Wallpaper 8"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_09.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bVBSOHdKNTA1YUU",
+				"name": "AS Wallpaper 9"
+			},
+			{
+				"author": "Ashish",
+				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_10.jpg",
+				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5UnF2NU5xUENOMGM",
+				"name": "AS Wallpaper 10"
+			}
+		]
 }
